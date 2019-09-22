@@ -26,6 +26,6 @@ cd ..
 
 mv jdk openjdk-11.0.4
 
-tar -zcvf openjdk-11.0.4-logicvein_linux-x64.tar.gz openjdk-11.0.4
+tar -zcvf openjdk-11.0.4-linux-x64.tar.gz openjdk-11.0.4
 
-mv openjdk-11.0.4-logicvein_linux-x64.tar.gz /tmp
+mv openjdk-11.0.4-linux-x64.tar.gz /tmp
